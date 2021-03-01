@@ -5,6 +5,6 @@ In this project, I will be creating a machine learning algorithm using only nump
 
 All the code will be derived from first principles using my knowledge of statistics, optimisation and linear algebra, as such,  no external machine learning libraries will be used. 
 
-The project will focus on hyper parameter tuning strategies, as well as regularisation, to create the most optimal learning algorithms. 
+The project will focus on hyper parameter tuning strategies, as well as regularisation, to create the most optimal learning algorithms. The jupyter notebook containing the codes will be located in the 'Project' folder and it is called 'Exploring different logistic classification problems'
 
 A full extensive report has been written documenting my findings too!
