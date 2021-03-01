@@ -1,4 +1,4 @@
-# mats-classfication
+# mnist -classfication
 Logistic Regression Classification!
 
 In this project, I will be creating a machine learning algorithm using only numpy techniques to classify an MNIST database of 60,000 images of handwritten digits.
